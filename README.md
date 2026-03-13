@@ -73,5 +73,5 @@ python main.py
 
 ## Tested On
 
-- macOS Ventura 13+ / Sonoma 14+
-- Python 3.11+
+- macOS 15+
+- Python 3.11
